@@ -1,0 +1,180 @@
+*
+{
+    padding: 0px;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+.left
+{
+    background-color: rgb(80, 80, 140);
+    height: 90vh;
+    width: 15vw;
+    float: left;
+    margin-top: 4%;
+ margin-left: 4px;
+
+
+}
+.right
+{  margin-top: 4%;
+
+    background-color: rgb(205, 205, 219);
+    height: 90vh;
+    width: 83vw;
+    float: right;
+}
+ul{
+
+    padding-left: 20px;
+
+}
+.li
+{
+    margin-top: 40px;
+    text-align: left;
+
+            
+}
+input
+{
+    padding: 5px;
+    border-style: none;
+    border-radius: 150px;
+}
+.middle
+{
+    background-color: rgb(29, 29, 80);
+    height:40% ;
+    width: 95%;
+   
+    margin-top: 4%;
+ margin-left: 4px;
+ display: flex;
+
+}
+.mid
+{
+    background-color: rgb(178, 178, 193);
+    height: 90%;
+    width: 30%;
+    border-radius: 30px;
+    margin-right: 20px;
+ margin-top: 2%;
+ 
+}
+.bottom
+{
+  
+    background-color: rgb(183, 60, 20);
+    height:80% ;
+    width: 95%;
+    margin-top: 2%;
+   
+    
+ margin-left: 4px;
+ display: flex;
+ 
+}
+.up
+{
+  
+    background-color: rgb(29, 29, 80);
+    height:25% ;
+    width: 95%;
+   
+    
+ margin-left: 4px;
+ 
+ 
+}
+.midd
+{
+    background-color: rgb(178, 178, 193);
+    height: 90%;
+    width: 30%;
+    border-radius: 30px;
+    margin-right: 20px;
+    position: relative;
+
+    
+ 
+ 
+}
+.mid1
+{
+    
+    background-color: rgb(29, 29, 80);
+    height:60% ;
+    width: 95%;
+    
+    border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+
+   
+    margin-top: 4%;
+ margin-left: 4px;
+}
+.mid2
+{
+    
+    background-color: rgb(254, 254, 255);
+    height:30% ;
+    width: 95%;
+    /* padding-top: 20%;  */
+     border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 30px;
+        display: flex;
+        /* position: relative; */
+    
+ margin-left: 4px;
+}
+.rat
+{
+     
+    background-color: rgb(11, 16, 2);
+    height:5px ;
+    width: 100%;
+    
+}
+.raat
+{
+     
+    background-color: rgb(234, 120, 120);
+    height:5px ;
+    width: 70%;
+     border-radius: 30px;
+    
+}
+.pos
+{
+     
+    background-color: rgb(234, 120, 120);
+    height:95% ;
+    width: 90%;
+        position: relative;
+                        z-index: 2;
+                        border-radius: 30px;
+                        bottom: 30px;
+
+
+
+    
+}
+.posi
+{
+     
+    background-color: rgb(91, 12, 12);
+    height:95% ;
+    width: 90%;
+        position: relative;
+        
+                        
+         border-radius: 30px;
+
+
+    
+}
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
